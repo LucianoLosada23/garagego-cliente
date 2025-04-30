@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme{
+  --color-primary: #2ba84a;
+  --color-primary-contrast: #040F0F;
+  --color-secondary: #248232;
+  --color-grey-text: #2d3a3a;
+  --color-body: #fcfffc;
+
+  --font-oswald: "Oswald", sans-serif;
+
+  --container-table-container : 1400px;
+}
+
+body{
+
+  font-family: var(--font-oswald);
+}

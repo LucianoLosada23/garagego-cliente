@@ -1,0 +1,547 @@
+[
+  {
+    "marca": "Ford",
+    "modelos": [
+      "Focus",
+      "Fiesta",
+      "Fiesta Kinetic",
+      "Ranger",
+      "EcoSport",
+      "Escort",
+      "Explorer",
+      "Falcon",
+      "Kuga",
+      "Mondeo",
+      "Transit",
+      "Mustang",
+      "F-150",
+      "Bronco",
+      "Ka",
+      "Figo",
+      "Endura",
+      "S-Max",
+      "Taurus",
+      "Taunus",
+      "Territory",
+      "Fusion",
+      "Sierra",
+      "Tourneo Connect",
+      "Edge",
+      "Ranger Raptor",
+      "F-150 Raptor",
+      "Transit Custom",
+      "Transit Courier",
+      "Transit Connect"
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelos": [
+      "Etios",
+      "Etios Sedán",
+      "Etios Cross",
+      "Yaris",
+      "Yaris Hatchback",
+      "Yaris Sedán",
+      "Corolla",
+      "Hilux DX/SR",
+      "Hilux SRV/SRX",
+      "Corolla Cross",
+      "C-HR",
+      "Celica",
+      "SW4",
+      "SW4 Diamond",
+      "Supra",
+      "RAV4",
+      "4Runner",
+      "Hiace Furgón",
+      "Hiace Commuter",
+      "Hiace Wagon",
+      "GR86",
+      "Corolla GR-Sport",
+      "Corolla Cross GR-Sport",
+      "Hilux GR-Sport",
+      "SW4 GR-Sport",
+      "Corolla Hybrid",
+      "Corolla Cross Hybrid",
+      "Crown",
+      "RAV4",
+      "RAV4 PHEV",
+      "Yaris Gr",
+      "GT86",
+      "Land Cruiser",
+      "Lexus"
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelos": [
+      "1500",
+      "Amarok",
+      "Beetle",
+      "Bora",
+      "Caddy",
+      "Carat",
+      "Combi",
+      "Constellation",
+      "Delivery",
+      "Cross Fox",
+      "Fox",
+      "Gacel",
+      "Golf",
+      "Gol Power",
+      "Gol Trend",
+      "Gol Country",
+      "Multivan",
+      "New Beetle",
+      "Passat",
+      "Polo",
+      "Polo Classic",
+      "Quantum",
+      "Saveiro",
+      "Scirocco",
+      "Sharan",
+      "Suran",
+      "Taos",
+      "Tiguan",
+      "Tiguan Allspace",
+      "Touareg",
+      "T-Cross",
+      "Up!",
+      "Vento",
+      "Virtus",
+      "Volksbus",
+      "Voyage",
+      "Transporter",
+      "Crafter",
+      "Nivus",
+      "Taigo",
+      "Tarek"
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelos": [
+      "400",
+      "Agile",
+      "Astra",
+      "Aveo",
+      "Blazer",
+      "C-10",
+      "Camaro",
+      "Caprice",
+      "Captiva",
+      "Celta",
+      "Cobalt",
+      "Colt",
+      "Corvette",
+      "Corvette Z06",
+      "Classic",
+      "Corsa",
+      "Corsa II",
+      "Cruze",
+      "Cruze II",
+      "D20",
+      "Dynaflow",
+      "Equinox",
+      "F-150",
+      "Grand Blazer",
+      "Grand Vitara",
+      "Impala",
+      "Joy",
+      "Joy Plus",
+      "Kadett",
+      "K10",
+      "Kodiak",
+      "Meriva",
+      "Monza",
+      "Montana",
+      "Mustang",
+      "New Silverado",
+      "NPR",
+      "Onix",
+      "Onix Plus",
+      "Prisma",
+      "Proteus",
+      "Ranger",
+      "S10",
+      "S-10",
+      "Sonic",
+      "Spark",
+      "Spark EUV",
+      "Spin",
+      "Tahoe",
+      "Trailblazer",
+      "Tracker",
+      "Trailblazer",
+      "Universal EV",
+      "Vega",
+      "Venture",
+      "Verse",
+      "Vetra",
+      "Viva",
+      "Volt",
+      "XPB"
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelos": [
+      "Sandero",
+      "Stepway",
+      "Kangoo",
+      "Duster",
+      "Logan",
+      "Laguna",
+      "Fluence",
+      "Alaskan",
+      "Captur",
+      "Clio",
+      "Kardian",
+      "Koleos",
+      "Kwid",
+      "Megane",
+      "Symbol",
+      "Twingo",
+      "19",
+      "9",
+      "18"
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelos": [
+      "208",
+      "2008",
+      "Partner",
+      "301",
+      "308",
+      "3008",
+      "5008",
+      "206",
+      "207",
+      "207 CC",
+      "306",
+      "307",
+      "308 CC",
+      "408",
+      "504",
+      "RCZ"
+    ]
+  },
+  {
+    "marca": "Fiat",
+    "modelos": [
+      "Cronos",
+      "Strada",
+      "Mobi",
+      "Argo",
+      "Toro",
+      "Fiorino",
+      "Ducato",
+      "147",
+      "500",
+      "Grand Siena",
+      "Idea",
+      "Linea",
+      "Nuevo Palio",
+      "Palio",
+      "Pulse",
+      "Punto",
+      "Siena",
+      "Uno",
+      "Uno Evo"
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelos": [
+      "Frontier",
+      "Versa",
+      "March",
+      "Sentra",
+      "Kicks",
+      "X-Trail",
+      "Navara",
+      "Bluebird",
+      "Leaf",
+      "Murano",
+      "Note",
+      "Pathfinder",
+      "Patrol",
+      "Terrano",
+      "Tiida",
+      "X-Terra"
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelos": [
+      "Civic",
+      "Fit",
+      "HR-V",
+      "City",
+      "CR-V",
+      "Pilot",
+      "Accord",
+      "Prelude",
+      "WR-V",
+      "ZR-V"
+    ]
+  },
+  {
+    "marca": "Citroën",
+    "modelos": [
+      "C3",
+      "DS3",
+      "C4 Lounge",
+      "Berlingo",
+      "C-Elysée",
+      "C5",
+      "Jumpy",
+      "3CV",
+      "Basalt",
+      "C3 Aircross",
+      "C3 Picasso",
+      "C4",
+      "C4 Cactus",
+      "C4 Grand Picasso",
+      "C4 Picasso",
+      "C4 Spacetourer",
+      "C5 Aircross",
+      "Dyane",
+      "Xsara Picasso"
+    ]
+  },
+  {
+    "marca": "Jeep",
+    "modelos": [
+      "Renegade",
+      "Compass",
+      "Cherokee",
+      "Wrangler",
+      "Commander",
+      "Grand Cherokee",
+      "Patriot"
+    ]
+  },
+  {
+    "marca": "Chery",
+    "modelos": [
+      "Fulwin",
+      "Face",
+      "QQ",
+      "Tiggo",
+      "Tiggo 2",
+      "Tiggo 3",
+      "Tiggo 4",
+      "Tiggo 5",
+      "Arrizo 5",
+      "Tiggo 7"
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelos": [
+      "Serie 3",
+      "Serie 5",
+      "X3",
+      "X5",
+      "Z4",
+      "Serie 7",
+      "X1",
+      "M2",
+      "M3",
+      "Serie 1",
+      "Serie 2",
+      "Serie 4",
+      "X2",
+      "X4",
+      "X6"
+    ]
+  },
+  {
+    "marca": "Mercedes-Benz",
+    "modelos": [
+      "Clase A",
+      "Clase B",
+      "Clase C",
+      "Clase E",
+      "Clase G",
+      "GLA",
+      "GLC",
+      "280",
+      "300",
+      "Clase CLA",
+      "Clase GLB",
+      "Clase GLE",
+      "Clase GLK",
+      "Clase ML",
+      "Clase S",
+      "Clase SLK"
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelos": [
+      "A3",
+      "A4",
+      "Q5",
+      "A6",
+      "Q7",
+      "Q3",
+      "A8",
+      "A1",
+      "A5",
+      "Q2",
+      "S3",
+      "S5",
+      "TT"
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelos": [
+      "Mazda 3",
+      "Mazda 6",
+      "CX-5",
+      "CX-30",
+      "MX-5"
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelos": [
+      "Elantra",
+      "Tucson",
+      "Creta",
+      "Sonata",
+      "Kona",
+      "Ioniq",
+      "Coupe",
+      "Galloper",
+      "Grand Santa Fe",
+      "H1",
+      "HB20",
+      "I 10",
+      "Santa Fe",
+      "Staria",
+      "Terracan",
+      "Veloster",
+      "Genesis"
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelos": [
+      "Sportage",
+      "Seltos",
+      "Cerato",
+      "Picanto",
+      "Stinger"
+    ]
+  },
+  {
+    "marca": "Lexus",
+    "modelos": [
+      "RX",
+      "NX",
+      "ES",
+      "UX",
+      "GX"
+    ]
+  },
+  {
+    "marca": "Land Rover",
+    "modelos": [
+      "Range Rover",
+      "Discovery",
+      "Defender"
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelos": [
+      "Macan",
+      "Cayenne",
+      "911",
+      "Panamera"
+    ]
+  },
+  {
+    "marca": "Mitsubishi",
+    "modelos": [
+      "Outlander",
+      "L200",
+      "Montero",
+      "ASX"
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelos": [
+      "Impreza",
+      "Forester",
+      "Outback",
+      "XV"
+    ]
+  },
+  {
+    "marca": "Volvo",
+    "modelos": [
+      "C30",
+      "XC60",
+      "XC90",
+      "S60",
+      "V60"
+    ]
+  },
+  {
+    "marca": "Chrysler",
+    "modelos": [
+      "Pacifica",
+      "Voyager",
+      "Saratoga"
+    ]
+  },
+  {
+    "marca": "Dodge",
+    "modelos": [
+      "Durango",
+      "Charger",
+      "Ram 1500"
+    ]
+  },
+  {
+    "marca": "GMC",
+    "modelos": [
+      "Sierra",
+      "Yukon",
+      "Terrain"
+    ]
+  },
+  {
+    "marca": "Buick",
+    "modelos": [
+      "Enclave",
+      "Encore",
+      "Lacrosse"
+    ]
+  },
+  {
+    "marca": "Lincoln",
+    "modelos": [
+      "Navigator",
+      "Corsair",
+      "Aviator"
+    ]
+  },
+  {
+    "marca": "Cadillac",
+    "modelos": [
+      "Escalade",
+      "XT5",
+      "CT6"
+    ]
+  }
+]
