@@ -21,7 +21,7 @@ import {
 } from '@mui/material';
 import { useEffect, useState } from 'react';
 
-import { CheckCheck, X, Pencil } from 'lucide-react';
+import { Pencil } from 'lucide-react';
 import { getVehicle } from '../services/Vehicle';
 import { VehicleString } from '../types/vehicle';
 import FormVehicle from './FormVehicle';

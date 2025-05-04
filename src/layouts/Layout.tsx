@@ -19,15 +19,13 @@ const Dashboard = () => {
   ];
 
   return (
-    <div className="flex h-screen mb-4">
+    <div className="flex h-screen">
       {/* Sidebar */}
-      <div className="h-[730px] w-64 bg-primary-contrast  text-white px-3 flex flex-col"
-     
-      >
-        <div className="flex justify-center items-center ">
-          <img src="/logo4.svg" alt="Logo" className="w-400 h-34" />
+      <div className="fixed top-0 left-0 h-full w-64 bg-primary-contrast text-white px-3 flex flex-col">
+        <div className="flex justify-center items-center py-2">
+          <img src="/logo4.svg" alt="Logo" className="w-40 h-34" />
         </div>
-        <nav className="flex flex-col justify-center items-center gap-2">
+        <nav className="flex flex-col justify-center items-center gap-1">
           {menuItems.map((item) => (
             <button
               key={item.path}
@@ -47,7 +45,7 @@ const Dashboard = () => {
       </div>
 
       {/* Main content */}
-      <div className="flex-1 min-h-screen p-6">
+      <div className="ml-64 w-full min-h-screen p-6">
         <Outlet />
       </div>
     </div>
