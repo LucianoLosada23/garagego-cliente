@@ -25,6 +25,7 @@ export const Vehicle = object({
     cliente: object({
         name: string(),
         lastname: string(),
+        cuit : string()
       }),
 })
 
@@ -41,6 +42,7 @@ export const VehicleString = object({
     cliente: object({
         name: string(),
         lastname: string(),
+        cuit : string()
       }),
 })
 
